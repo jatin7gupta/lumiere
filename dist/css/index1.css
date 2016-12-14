@@ -6,7 +6,7 @@
 .image1 {
 /* width:100px; width of your image*/
  /*  height:100px; height of your image*/
-   background-image:url('../../banner_images/10.jpg');
+   background-image:url('../../All Images/banner_images/10.jpg');
    margin:0; /* If you want no margin */
    padding:0; /*if your want to padding */
 	filter: blur(5px);
